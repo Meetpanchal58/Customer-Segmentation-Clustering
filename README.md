@@ -1,4 +1,4 @@
-# Market Segmentation in InsuranceD
+# Market Segmentation in Insurance Domain
 
 ### Objective  :
 This case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customer groups.
@@ -12,4 +12,4 @@ In this dataset i've used k-means clustering algorithm to perform segmentation.T
 - [K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 
 ### Final Model  :
-We have created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the custoemr belongs to.
+We have created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the customer belongs to.
